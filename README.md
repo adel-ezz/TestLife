@@ -10,6 +10,8 @@ kindly install
 <br>
 5- open terminal and put (php artisan serve)
 <br>
+6- make new account with registration 
+<br>
 you get life now 
 <br>
 ====================
